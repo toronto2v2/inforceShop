@@ -1,0 +1,54 @@
+.edit-modal
+    &__wrapper
+        position: fixed
+        top: 50%
+        left: 50%
+        transform: translate(-50%, -50%)
+        z-index: 100
+        background-color: rgba(0, 0, 0, 1)
+        width: 400px
+        max-width: 90%
+        padding: 20px
+        border-radius: 10px
+        display: none
+    &__header
+        font-size: 24px
+        color: #ffffff
+        text-align: center
+        margin-bottom: 20px
+    &__inputs
+        margin-bottom: 20px
+    &__input-block
+        margin-bottom: 15px
+    &__input
+        width: 100%
+        padding: 10px
+        font-size: 14px
+        border-radius: 5px
+        border: none
+        background-color: rgba(255, 255, 255, 0.8)
+        color: #333333
+    &__buttons-group
+        text-align: right
+    &__submit, &__cancel
+        background-color: #33cc66
+        color: #ffffff
+        border: none
+        padding: 10px 20px
+        font-size: 16px
+        border-radius: 5px
+        cursor: pointer
+    &__cancel
+        background-color: #ff3333
+        width: 100%
+    &__submit
+        &:disabled
+            background-color: gray
+
+label
+    display: block
+    font-size: 16px
+    color: #ffffff
+    margin-bottom: 5px
+
+

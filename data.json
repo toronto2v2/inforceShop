@@ -1,0 +1,168 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "imageUrl": "some url here",
+      "name": "priFlat Duo",
+      "count": 22,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        {
+          "id": 1685829497491,
+          "productId": 2,
+          "description": "yes my friend",
+          "date": "Sunday, 4 Jun 2023, 00:58"
+        },
+        {
+          "id": 1685829231595,
+          "productId": 2,
+          "description": "this shop is the best",
+          "date": "Sunday, 4 Jun 2023, 00:53"
+        },
+        {
+          "id": 1685829481259,
+          "productId": 2,
+          "description": "Are you sure?",
+          "date": "Sunday, 4 Jun 2023, 00:58"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "priFlat Trio",
+      "imageUrl": "some url here",
+      "count": 18,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        {
+          "id": 1685829062107,
+          "productId": 3,
+          "description": "what does it means trio",
+          "date": "Sunday, 4 Jun 2023, 00:51"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "priRoof",
+      "imageUrl": "some url here",
+      "count": 14,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        {
+          "id": 1685829084459,
+          "productId": 4,
+          "description": "i dont like it",
+          "date": "Sunday, 4 Jun 2023, 00:51"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "priRoof Duo",
+      "imageUrl": "some url here",
+      "count": 17,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        {
+          "id": 1685829133707,
+          "productId": 5,
+          "description": "who made it?",
+          "date": "Sunday, 4 Jun 2023, 00:52"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "imageUrl": "some url here",
+      "name": "priBalcony",
+      "count": 188,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        {
+          "id": 1685816047761,
+          "productId": 6,
+          "description": "some coool comment",
+          "date": "Saturday, 3 Jun 2023, 21:14"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "priWall",
+      "imageUrl": "some url here",
+      "count": 31,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        {
+          "id": 1685829152011,
+          "productId": 8,
+          "description": "i dont need wall",
+          "date": "Sunday, 4 Jun 2023, 00:52"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "priWall Duo",
+      "imageUrl": "some url here",
+      "count": 43,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        {
+          "id": 1685829171523,
+          "productId": 9,
+          "description": "I dont care",
+          "date": "Sunday, 4 Jun 2023, 00:52"
+        }
+      ]
+    },
+    {
+      "id": 1685828968775,
+      "imageUrl": "str",
+      "name": "Tesla ModelX",
+      "count": 1,
+      "size": {
+        "width": 150,
+        "height": 200
+      },
+      "weight": "1500kb",
+      "comments": [
+        {
+          "id": 1685829016619,
+          "productId": 1685828968775,
+          "description": "Not so good as my ferrari",
+          "date": "Sunday, 4 Jun 2023, 00:50"
+        }
+      ]
+    }
+  ]
+}
